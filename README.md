@@ -5,6 +5,10 @@
 
 ## Getting Started
 
+Uma distribuição de frequência é um método de se agrupar dados em classes de modo a fornecer a quantidade (e/ou a percentagem) de dados em cada classe. Com isso, podemos resumir e visualizar um conjunto de dados sem precisar levar em conta os valores individuais.
+
+## Getting Started
+
 ### Installing
 
 You can also get the latest release using NPM. This release contains source files as well as the compiled CSS and JavaScript files.
