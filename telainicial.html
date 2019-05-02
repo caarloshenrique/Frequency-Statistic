@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Frequency</title>
+	<link rel="stylesheet" type="text/css" href="css/materialize.css">
+</head>
+<body>
+<nav>
+  <div class="black nav-wrapper">
+      <a href="#" class="brand-logo center">Frequency</a>
+    </div>
+</nav>
+  <div class="row">
+   <div class="col s6">
+    <form name="test" id="form">
+      <h5>Insira os valores:</h5>
+      <input type="number" name="valor01" value="">
+      <br><br>
+      <input type="number" name="valor02" value="">
+      <br><br>
+      <input type="number" name="valor03" value="">
+      <br><br>
+      <input type="number" name="valor04" value="">
+      <br><br>
+      <input type="number" name="valor05" value="">
+      <br><br>
+      <input type="number" name="valor06" value="">
+      <br><br>
+      <input type="number" name="valor07" value="">
+      <br><br>
+      <input type="number" name="valor08" value="">
+      <br><br>
+      <input type="number" name="valor09" value="">
+      <br><br>
+      <input type="number" name="valor10" value="">
+      <br><br>
+      <center>
+        <input class="black white-text btn container center" type="submit" value="Submit"> 
+      </center> 
+      </form>  
+   </div>
+      <div class="col s6">
+        <div id="resultado">
+          <h5 class="center" id="p1">Análise</h5>
+        </div>
+        <table class="tabela">
+           <thead>
+              <tr><td>Elemento</td><td>Frequencia</td><td>Frequencia Relativa</td><td>Porcentagem(%)</td></tr>
+           </thead>
+           <tbody id="tbody"></tbody>
+        </table>
+      </div>
+  </div>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script type="text/javascript" src="js/cadastra.js"></script>
+</body>
+</html>
