@@ -10,11 +10,9 @@ O projeto foi feito utilizando as seguintes tecnologias:
 - [Materialize](https://materializecss.com/)
 {...}
 
-
 <img src="/images/home-page.PNG">
 
-## Definição de Frequência
-
+## :dart: Definição de Frequência
 Uma distribuição de frequência é um método de se agrupar dados em classes de modo a fornecer a quantidade (e/ou a percentagem) de dados em cada classe. Com isso, podemos resumir e visualizar um conjunto de dados sem precisar levar em conta os valores individuais.
 
 ## :page_facing_up: Licença 
