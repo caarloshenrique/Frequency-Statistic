@@ -1,6 +1,16 @@
 # Frequency-Statistic
 📊 Página web desenvolvida para realizar cálculos de frequência e demais métodos estatísticos
 
+## :rocket: Tecnologias utilizadas 
+O projeto foi feito utilizando as seguintes tecnologias:
+
+- [JavaScript](https://www.javascript.com/)
+- [HTML](https://www.w3schools.com/html/)
+- [CSS](https://www.w3schools.com/css/)
+- [Materialize](https://materializecss.com/)
+{...}
+
+
 <img src="/images/home-page.PNG">
 
 ## Definição de Frequência
