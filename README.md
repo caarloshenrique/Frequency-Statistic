@@ -1,6 +1,8 @@
 # Frequency-Statistic
 📊 Página web desenvolvida para realizar cálculos de frequência e demais métodos estatísticos
 
+<img src="/images/home-page.PNG">
+
 ## :rocket: Tecnologias utilizadas 
 O projeto foi feito utilizando as seguintes tecnologias:
 
@@ -9,8 +11,6 @@ O projeto foi feito utilizando as seguintes tecnologias:
 - [CSS](https://www.w3schools.com/css/)
 - [Materialize](https://materializecss.com/)
 {...}
-
-<img src="/images/home-page.PNG">
 
 ## :dart: Definição de Frequência
 Uma distribuição de frequência é um método de se agrupar dados em classes de modo a fornecer a quantidade (e/ou a percentagem) de dados em cada classe. Com isso, podemos resumir e visualizar um conjunto de dados sem precisar levar em conta os valores individuais.
