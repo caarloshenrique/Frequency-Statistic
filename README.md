@@ -17,20 +17,6 @@ O projeto foi feito utilizando as seguintes tecnologias:
 
 Uma distribuição de frequência é um método de se agrupar dados em classes de modo a fornecer a quantidade (e/ou a percentagem) de dados em cada classe. Com isso, podemos resumir e visualizar um conjunto de dados sem precisar levar em conta os valores individuais.
 
-## Getting Started
-
-### Installing
-
-You can also get the latest release using NPM. This release contains source files as well as the compiled CSS and JavaScript files.
-
-```
-$ npm install materialize-css@next
-```
-
-## Built With
-
-* [Materialize](https://materializecss.com/) - The web framework used
-
 ## :page_facing_up: Licença 
 Este projeto é desenvolvido sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para saber mais detalhes.
 
