@@ -1,4 +1,4 @@
-# Frequency-Statistic
+# frequency-statistic
 📊 Página web desenvolvida para realizar cálculos de frequência e demais métodos estatísticos
 
 <img src="/images/home-page.PNG">
