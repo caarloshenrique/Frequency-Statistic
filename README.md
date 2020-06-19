@@ -15,6 +15,9 @@ O projeto foi feito utilizando as seguintes tecnologias:
 ## :dart: Definição de Frequência
 Uma distribuição de frequência é um método de se agrupar dados em classes de modo a fornecer a quantidade (e/ou a percentagem) de dados em cada classe. Com isso, podemos resumir e visualizar um conjunto de dados sem precisar levar em conta os valores individuais.
 
+## :fire: Executando a aplicação
+Execute o arquivo `telainicial.html` localizado na raiz do projeto.
+
 ## :page_facing_up: Licença 
 Este projeto é desenvolvido sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para saber mais detalhes.
 
